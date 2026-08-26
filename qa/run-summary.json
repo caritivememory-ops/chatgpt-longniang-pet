@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "pet_id": "chatgpt-longniang",
+  "display_name": "chatgpt龙娘",
+  "run_dir": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair",
+  "spritesheet": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\final\\spritesheet-extended.webp",
+  "spritesheet_sha256": "334D2A7F957D1F96F492A7FCB9A6A95F3E65F5FCA3C567A8E43C2386C5F4C05B",
+  "validation": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\final\\validation-extended.json",
+  "installed_validation": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\installed-validation.json",
+  "chroma_despill": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\contact-sheet-extended.png",
+  "previews": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\previews",
+  "direction_sheet": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\look-directions.png",
+  "direction_semantics": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\direction-semantics.json",
+  "blind_direction_validation": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\direction-blind-validation.json",
+  "look_preservation": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\look-preservation-verification.json",
+  "continuity": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\look-continuity.json",
+  "review": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\review.json",
+  "final_visual_qa": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\final-visual-qa.json",
+  "preservation_verification": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\qa\\preservation-verification.json",
+  "package": "C:\\Users\\Administrator\\.codex\\pets\\chatgpt-longniang",
+  "backup": "C:\\Users\\Administrator\\.codex\\pets\\_backup\\chatgpt-longniang-left-cadence-phone-repair-20260825-012415",
+  "installed_file": "C:\\Users\\Administrator\\.codex\\pets\\chatgpt-longniang\\spritesheet.webp",
+  "config_changed": false,
+  "pet_json_changed": false,
+  "repairs": [
+    "Replaced the complete eight-frame running-left row with compact alternating steps and restrained body, dress, hair, wing, and tail motion.",
+    "Replaced the complete six-frame running/working row so the same dark-lavender phone remains present in every frame.",
+    "Reviewed all nine standard animation loops for cross-action contamination and found no remaining mixed-frame issue.",
+    "Preserved every other standard row and all 16 look cells pixel-identically to the prior approved atlas."
+  ]
+}

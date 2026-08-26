@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FFFF00",
+    "rgb": [
+      255,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\00.png",
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\01.png",
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\02.png",
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\03.png",
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\04.png",
+        "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\idle-stable\\frames\\idle\\05.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

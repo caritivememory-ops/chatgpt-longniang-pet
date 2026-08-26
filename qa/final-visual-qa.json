@@ -1,0 +1,16 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard GIFs and both contact sheets show coherent identity and row semantics; running-left has restrained screen-left cadence, running keeps the same phone in all six frames, and preserved rows match the approved atlas.",
+  "reviewed_by": "independent_final_visual_worker",
+  "repair_rows": [],
+  "repair_notes": [],
+  "review_warnings": [
+    "Look-direction warnings at 022.5, 112.5, 292.5, and 337.5 are unchanged from the prior approved pixel-identical look rows.",
+    "Continuity alpha-hole and boundary-diff metrics remain reviewed warnings without visible sprite discontinuity."
+  ],
+  "specific_repairs": {
+    "running-left": "pass: all eight frames face screen-left with compact alternating steps, minimal body bob, and restrained hair, wing, dress, and tail follow-through",
+    "running": "pass: the same dark-lavender phone remains visibly attached to both hands in all six frames with only subtle blink and tapping changes"
+  },
+  "cross_action_review": "pass: no standard row contains a subset of frames from another action, and no unexpected prop, identity, scale, or baseline jump remains"
+}

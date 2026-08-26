@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "frames_root": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames",
+  "states": [
+    "running-left"
+  ],
+  "errors": [],
+  "warnings": [
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18190,
+          "bbox": [
+            22,
+            5,
+            169,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 336
+        },
+        {
+          "index": 1,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17873,
+          "bbox": [
+            22,
+            7,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 2,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18597,
+          "bbox": [
+            17,
+            7,
+            173,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 3,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17524,
+          "bbox": [
+            23,
+            7,
+            168,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 4,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17689,
+          "bbox": [
+            18,
+            7,
+            173,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 5,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18059,
+          "bbox": [
+            18,
+            9,
+            173,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 6,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17360,
+          "bbox": [
+            23,
+            6,
+            168,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 7,
+          "file": "E:\\Codex\u9879\u76ee\\chatgpt-longniang-pet-motion-repair\\qa\\rows\\running-left-stable\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18725,
+          "bbox": [
+            15,
+            6,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        }
+      ]
+    }
+  ]
+}

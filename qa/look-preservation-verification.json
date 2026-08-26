@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "method": "pixel comparison of decoded RGBA atlas rows 9-10",
+  "look_rows_pixel_identical": true,
+  "source_atlas": "E:\\Codex项目\\chatgpt-longniang-pet-motion-repair-final\\final\\spritesheet-extended.webp",
+  "repaired_atlas": "E:\\Codex项目\\chatgpt-longniang-pet-left-cadence-repair\\final\\spritesheet-extended.webp",
+  "note": "The complete 16 look cells are pixel-identical, so the prior passed blind-direction evidence remains applicable.",
+  "old_direction_sheet_sha256": "131AB59425A5745893BACD809B621A4698BF05C5C2CF20708F1C9B85DD27BF97",
+  "new_direction_sheet_sha256": "131AB59425A5745893BACD809B621A4698BF05C5C2CF20708F1C9B85DD27BF97"
+}
